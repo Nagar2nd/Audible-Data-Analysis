@@ -1,5 +1,8 @@
 # Audible-Data-Analysis
 
+Utilizing Power Query Editor in Excel to clean and standardize an Audible dataset. 
+Tasks include formatting columns, ensuring data consistency, and preparing the dataset for analysis.
+
 Added the compressed version for cleaned version of the dataset.
 Kindly download for your reference.
 
