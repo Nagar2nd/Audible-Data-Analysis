@@ -1,15 +1,10 @@
 # Audible Data Cleaning Project
 
 ## Project Overview
-This project focuses on cleaning and standardizing an Audible dataset using Power Query Editor in Excel. 
-The dataset was transformed to ensure consistency and prepared for further analysis by applying various data cleaning techniques.
+This project involves cleaning and standardizing an Audible dataset using Power Query Editor in Excel.
+The dataset was transformed to ensure consistency and prepared for further analysis by applying various data cleaning and transformation techniques.
 
 **Dataset Link**: https://drive.google.com/file/d/1yjyozaSrwShoaROq-TDuSgC5HNLLmrTE/view?usp=sharing
-
-# Audible Data Cleaning Project
-
-## Project Overview
-This project involves cleaning and standardizing an Audible dataset using Power Query Editor in Excel. The dataset was transformed to ensure consistency and prepared for further analysis by applying various data cleaning and transformation techniques.
 
 ## Data Cleaning Tasks and Applied Steps
 
